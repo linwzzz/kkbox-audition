@@ -1,4 +1,18 @@
-# kkboxapi
+# kkbox-audition
+
+### 專案介紹
+
+KKBOX RESTful API 的串接練習，顯示了音樂排行榜、曲風歌單以及最新歌曲。點選後套用 KKBOX HTML Widget 的播放器，以提供使用者試聽。
+
+### 運用技術及資源
+* Vue.js
+* Axios
+* Bootstrap 4
+* KKBOX OPENAPI
+
+### DOMO
+
+https://linwzzz.github.io/kkbox-audition/
 
 ## Project setup
 ```
@@ -19,22 +33,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# 123
-# 123
-# 123
-# 123
-# KKBOXAPI
-"# KKBOXAPI" 
-"# KKBOXAPI" 
-"# kkbox-auditioned" 
-"# kkbox-auditioned" 
-# kkbox-auditioned
-# kkbox-auditioned
-# kkbox-audition
-# kkbox-audition
-# kkbox-audition
-# kkbox-audition
-# kkbox-audition
