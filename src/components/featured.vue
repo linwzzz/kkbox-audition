@@ -20,7 +20,7 @@ export default {
   name: "featured",
   data() {
     return {
-      token: "-kfmJ0iw_CHLEfmCa7T0gg==",
+      token: "tXkxthFji9gYi1YIRqMIuQ==",
       featuredData: [],
     };
   },

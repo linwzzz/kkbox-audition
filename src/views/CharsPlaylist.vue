@@ -54,7 +54,7 @@ export default {
   name: "CharsPlaylist",
   data() {
     return {
-      token: "-kfmJ0iw_CHLEfmCa7T0gg==",
+      token: "tXkxthFji9gYi1YIRqMIuQ==",
       playlist : true,
       playlistId: "",
       charslistData: [],

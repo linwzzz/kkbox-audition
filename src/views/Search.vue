@@ -81,7 +81,7 @@ export default {
       tracksCheck: true,
       playlistsCheck: false,
       albumsCheck: false,
-      token: "-kfmJ0iw_CHLEfmCa7T0gg==",
+      token: "tXkxthFji9gYi1YIRqMIuQ==",
       searchAlbums: [],
       searchArtists: [],
       searchPlaylists: [],
